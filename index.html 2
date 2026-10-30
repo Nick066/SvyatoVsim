@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Оренда попкорн-машини, солодкої вати, шоколадного фонтана | Свято всім</title>
+<meta name="description" content="Свято всім: оренда попкорн-машин, апаратів солодкої вати, шоколадних фонтанів, термопотів, мілкшейкерів, апаратів для тапіоки та ванн для фондю. Самовивіз, ми показуємо, як користуватися. Аніматори й кейтеринг. Тел. 073 027 07 32.">
+<meta name="keywords" content="оренда попкорн-машини, оренда солодкої вати, оренда шоколадного фонтана, оренда обладнання для свята, оренда термопотів, апарат для тапіоки в оренду, оренда мілкшейкерів, оренда ванни для фондю, аніматори, кейтеринг">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://nick066.github.io/">
+<meta property="og:url" content="https://nick066.github.io/">
+<meta name="theme-color" content="#6C3BE0">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="uk_UA">
+<meta property="og:title" content="Свято всім: оренда обладнання для свят і подій">
+<meta property="og:description" content="Попкорн, солодка вата, шоколадний фонтан в оренду. Ми показуємо, як користуватися.">
+<script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"LocalBusiness","name":"Свято всім","url":"https://nick066.github.io/","description":"Оренда святкового обладнання (попкорн-машини, солодка вата, шоколадний фонтан), аніматори та кейтеринг.","telephone":"+380730270732","email":"hello@svyato-vsim.ua","priceRange":"700-1000 UAH","areaServed":"UA","sameAs":["https://t.me/SvyatoVsim"],"hasOfferCatalog":{"@type":"OfferCatalog","name":"Оренда обладнання","itemListElement":[{"@type":"Offer","priceCurrency":"UAH","price":"1000","itemOffered":{"@type":"Service","name":"Оренда попкорн-машини на добу"}},{"@type":"Offer","priceCurrency":"UAH","price":"1000","itemOffered":{"@type":"Service","name":"Оренда апарата солодкої вати на добу"}},{"@type":"Offer","priceCurrency":"UAH","price":"700","itemOffered":{"@type":"Service","name":"Оренда шоколадного фонтана на добу"}}]}},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Скільки коштує оренда попкорн-машини?","acceptedAnswer":{"@type":"Answer","text":"Оренда попкорн-машини коштує 1000 грн за добу. Солодка вата теж 1000 грн, шоколадний фонтан 700 грн за добу."}},{"@type":"Question","name":"Чи потрібен досвід, щоб користуватися обладнанням?","acceptedAnswer":{"@type":"Answer","text":"Ні. Коли ви забираєте апарат, ми показуємо, як його запустити, користуватися ним і доглянути після використання."}},{"@type":"Question","name":"Чи можна орендувати обладнання для школи, садочка чи благодійного заходу?","acceptedAnswer":{"@type":"Answer","text":"Так. Обладнання беруть для шкільних ярмарків, свят у садочках, благодійних заходів, відкриття магазинів і наукових виставок."}},{"@type":"Question","name":"Як забронювати обладнання?","acceptedAnswer":{"@type":"Answer","text":"Напишіть у Telegram @SvyatoVsim або зателефонуйте 073 027 07 32, вкажіть дату й що потрібно."}},{"@type":"Question","name":"Чи є аніматори й кейтеринг?","acceptedAnswer":{"@type":"Answer","text":"Так. Якщо не хочете організовувати свято самі, ми візьмемо на себе програму з аніматорами та частування."}}]}]}</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@500;700;800&family=Nunito:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#FFF8EE;--ink:#2B1E5B;--soft:#5b4f86;--card:#fff;--pink:#E6007E;--yellow:#FFC400;--teal:#00A99D;--violet:#6C3BE0;--orange:#FF6B2C;
+--f1:'Unbounded',Impact,sans-serif;--f2:'Nunito',system-ui,sans-serif;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#1A1238;--ink:#FFF8EE;--soft:#cfc6ee;--card:#2a1f55}}
+:root[data-theme="dark"]{--bg:#1A1238;--ink:#FFF8EE;--soft:#cfc6ee;--card:#2a1f55}
+html{scroll-behavior:smooth;scroll-padding-top:70px;height:100%}
+*,*::before,*::after{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:18px/1.6 var(--f2);overflow-x:hidden}
+h1,h2,h3{font-family:var(--f1);line-height:1.1;margin:0}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--violet);outline-offset:3px}
+.wrap{max-width:1120px;margin:0 auto;padding:0 20px}
+section{padding:80px 0}
+h2{font-size:clamp(28px,5vw,44px);margin-bottom:12px}
+.lead{color:var(--soft);max-width:60ch;margin:0 0 40px}
+.btn{display:inline-block;font:800 17px var(--f2);padding:16px 28px;border-radius:999px;text-decoration:none;border:0;cursor:pointer;transition:transform .15s}
+.btn:hover{transform:translateY(-3px) rotate(-1deg)}
+.btn.pink{background:var(--pink);color:#fff}
+.btn.yel{background:var(--yellow);color:#2B1E5B}
+.btn.line{border:3px solid currentColor;padding:13px 25px}
+header{position:sticky;top:0;z-index:20;background:var(--bg);padding-top:env(safe-area-inset-top,0px);box-shadow:0 2px 0 var(--yellow)}
+header .wrap{display:grid;grid-template-columns:1fr auto 1fr;align-items:center;height:70px}
+header .btn{grid-column:3;justify-self:end}
+.logo{grid-column:2;display:flex;align-items:center;gap:8px;font:800 20px var(--f1);text-decoration:none;color:var(--pink);transform:rotate(-2deg);white-space:nowrap}
+.logo svg{width:36px;height:36px;flex:none}
+.logo .b{background:var(--yellow);color:#2B1E5B;padding:3px 12px;border-radius:999px}
+@media(max-width:420px){.logo{font-size:16px}.logo svg{width:28px;height:28px}header .btn{padding:9px 12px!important;font-size:14px!important}}
+nav{display:flex;gap:22px;font-weight:800}
+nav a{text-decoration:none}
+nav a:hover{color:var(--pink)}
+@media(max-width:760px){nav{display:none}}
+.hero{background:var(--violet);color:#fff;position:relative;overflow:hidden;padding:0 0 90px}
+.bunting{display:block;width:100%;height:70px}
+.hero h1{font-size:clamp(36px,8vw,84px);font-weight:800;max-width:13ch;margin-top:30px}
+.hero h1 span{color:var(--yellow)}
+.hero p{font-size:clamp(18px,2.4vw,22px);max-width:46ch;margin:22px 0 32px}
+.cta{display:flex;flex-wrap:wrap;gap:14px}
+.balloon{position:absolute;border-radius:50% 50% 48% 48%;width:var(--s);height:calc(var(--s)*1.2);background:var(--c);right:var(--r);top:var(--t);animation:float 5s ease-in-out infinite;animation-delay:var(--d);opacity:.95}
+.balloon::after{content:"";position:absolute;left:50%;top:100%;width:2px;height:120px;background:rgba(255,255,255,.5)}
+.balloon::before{content:"";position:absolute;left:22%;top:15%;width:18%;height:26%;border-radius:50%;background:rgba(255,255,255,.35)}
+@keyframes float{50%{transform:translateY(-18px) rotate(3deg)}}
+@media(max-width:760px){.balloon{opacity:.35}}
+.grid{display:grid;gap:22px;grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
+.item{background:var(--card);border-radius:28px;padding:28px;border:3px solid var(--c);position:relative}
+.item:nth-child(even){border-radius:28px 28px 28px 70px}
+.item:nth-child(odd){border-radius:28px 70px 28px 28px}
+.ic{display:grid;place-items:center;width:76px;height:76px;border-radius:50%;background:var(--c);font-size:38px;margin-bottom:16px}
+.item h3{font-size:20px;margin-bottom:8px}
+.item p{margin:0 0 14px;color:var(--soft)}
+.price{font:700 15px var(--f1);color:var(--c)}
+.self{margin-top:48px;background:var(--violet);color:#fff;border-radius:36px;padding:clamp(24px,5vw,44px)}
+.self h3{font-size:clamp(22px,3.4vw,30px);margin-bottom:10px}
+.self>p{max-width:62ch;margin:0 0 22px}
+.chips{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 30px;padding:0;list-style:none}
+.chips li{background:rgba(255,255,255,.18);border-radius:999px;padding:7px 16px;font-weight:700;font-size:16px}
+.steps{display:grid;gap:16px;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));margin-bottom:28px}
+.steps div{background:#fff;color:#2B1E5B;border-radius:22px;padding:20px}
+.steps b{display:inline-grid;place-items:center;width:34px;height:34px;border-radius:50%;background:var(--pink);color:#fff;font:800 16px var(--f1);margin-bottom:8px}
+.steps p{margin:0}
+.services{background:var(--yellow);color:#2B1E5B}
+.services .lead{color:#4a3a85}
+.svc{display:grid;gap:22px;grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}
+.svc article{background:#fff;border-radius:32px;padding:32px;color:#2B1E5B}
+.svc ul{padding-left:20px;margin:14px 0 0}
+.svc li{margin:6px 0}
+.faq details{background:var(--card);border-radius:20px;padding:16px 22px;margin-bottom:12px;border:2px solid var(--yellow)}
+.faq summary{cursor:pointer;font:800 18px var(--f2)}
+.faq details p{margin:10px 0 0;color:var(--soft)}
+.about{display:grid;gap:40px;grid-template-columns:1.2fr 1fr;align-items:center}
+@media(max-width:820px){.about{grid-template-columns:1fr}}
+.stats{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.stat{border-radius:24px;padding:22px;color:#fff;background:var(--c)}
+.stat b{display:block;font:800 36px var(--f1)}
+.contact{background:var(--ink);color:var(--bg)}
+:root[data-theme="dark"] .contact{background:#2a1f55}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .contact{background:#2a1f55}}
+.contact .lead{color:inherit;opacity:.85}
+.cgrid{display:grid;gap:36px;grid-template-columns:1fr 1fr}
+@media(max-width:820px){.cgrid{grid-template-columns:1fr}}
+form{background:#fff;color:#2B1E5B;border-radius:28px;padding:28px;display:grid;gap:14px}
+label{font-weight:800;font-size:15px;display:grid;gap:6px}
+input,select,textarea{font:600 17px var(--f2);padding:13px 14px;border-radius:14px;border:2px solid #d9d2f2;background:#fff;color:#2B1E5B;width:100%}
+.msgs{display:flex;flex-wrap:wrap;gap:12px;margin:18px 0 26px}
+.btn.tg{background:#27A7E7;color:#fff}.btn.vb{background:#7360F2;color:#fff}
+.info{list-style:none;padding:0;margin:0;display:grid;gap:10px}
+#ok{font-weight:800;color:#007a70;margin:0;min-height:1.4em}
+footer{text-align:center;padding:24px 20px;font-size:15px;color:var(--soft)}
+@media (prefers-reduced-motion:reduce){.balloon{animation:none}html{scroll-behavior:auto}.btn:hover{transform:none}}
+</style>
+</head>
+<body>
+<header><div class="wrap"><nav><a href="#catalog">Обладнання</a><a href="#services">Послуги</a><a href="#about">Про нас</a><a href="#contacts">Контакти</a></nav>
+<a class="logo" href="#top" aria-label="Свято всім, на початок"><svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 2l4.5 11.5L36 14l-9 7.5 3 12L20 27l-10 6.5 3-12L4 14l11.5-.5z" fill="#E6007E"/><circle cx="34" cy="6" r="3" fill="#00A99D"/><circle cx="6" cy="34" r="3" fill="#FFC400"/><circle cx="36" cy="32" r="2.2" fill="#FF6B2C"/><circle cx="5" cy="8" r="2.2" fill="#6C3BE0"/></svg><span>Свято</span><span class="b">всім</span></a>
+<a class="btn pink" style="padding:10px 18px;font-size:15px" href="#contacts">Замовити</a></div></header>
+
+<main id="top">
+<div class="hero">
+<svg class="bunting" viewBox="0 0 1200 70" preserveAspectRatio="none" aria-hidden="true">
+<path d="M0 6 Q600 50 1200 6" fill="none" stroke="#fff" stroke-width="2"/>
+<g id="flags"></g></svg>
+<div class="balloon" style="--s:120px;--c:#E6007E;--r:8%;--t:120px;--d:0s"></div>
+<div class="balloon" style="--s:90px;--c:#FFC400;--r:22%;--t:190px;--d:-1.5s"></div>
+<div class="balloon" style="--s:70px;--c:#00D4C4;--r:3%;--t:330px;--d:-3s"></div>
+<div class="wrap">
+<h1>Оренда обладнання для <span>свята</span></h1>
+<p>Оренда попкорн-машин, солодкої вати, шоколадних фонтанів, термопотів та іншого обладнання для свят. Забираєте апарат, а ми показуємо, як ним користуватися. Ви проводите захід і повертаєте. Або віддайте всю організацію нам.</p>
+<div class="cta"><a class="btn yel" href="#contacts">Розрахувати вартість свята</a><a class="btn line" href="#catalog">Дивитись каталог</a></div>
+</div></div>
+
+<section id="catalog"><div class="wrap">
+<h2>Каталог обладнання</h2>
+<p class="lead">Усе чисте, справне й готове до роботи. Ви самі забираєте обладнання, а ми коротко показуємо, як ним користуватися.</p>
+<div class="grid">
+<div class="item" style="--c:#FF6B2C"><div class="ic">🍿</div><h3>Попкорн-машини</h3><p>Свіжий гарячий попкорн прямо на святі: хрусткий, ароматний і завжди гарячий.</p><span class="price">1000 грн / доба</span></div>
+<div class="item" style="--c:#E6007E"><div class="ic">🍭</div><h3>Солодка вата</h3><p>Рожева, блакитна або кольорова. Підходить для дитячих свят і виїзних подій.</p><span class="price">1000 грн / доба</span></div>
+<div class="item" style="--c:#6C3BE0"><div class="ic">🍫</div><h3>Шоколадний фонтан</h3><p>Фонтан для фондю з фруктами, зефіром і печивом. Висота від 50 см.</p><span class="price">700 грн / доба</span></div>
+<div class="item" style="--c:#00A99D"><div class="ic">🫖</div><h3>Термопоти</h3><p>Гарячий чай, кава чи какао для гостей без постійного підігріву. Зручно для ярмарків і виїзних подій.</p><span class="price">за узгодженням з менеджером</span></div>
+<div class="item" style="--c:#0089C7"><div class="ic">🧋</div><h3>Апарат для приготування тапіоки</h3><p>Тапіока для бабл-ті та десертів. Ми покажемо, як з ним працювати.</p><span class="price">за узгодженням з менеджером</span></div>
+<div class="item" style="--c:#C77700"><div class="ic">🥤</div><h3>Мілкшейкери</h3><p>Молочні коктейлі на місці: швидко, смачно й видовищно для гостей.</p><span class="price">за узгодженням з менеджером</span></div>
+<div class="item" style="--c:#C2185B"><div class="ic">🍓</div><h3>Професійна ванна для фондю</h3><p>Для шоколадного та сирного фондю на великі компанії й заходи.</p><span class="price">за узгодженням з менеджером</span></div>
+</div>
+<div class="self">
+<h3>Оренда з самовивозом: беріть і святкуйте самі</h3>
+<p>Не потрібні аніматори чи кейтеринг? Ми покажемо, як користуватися апаратом, тож досвід не потрібен. Орендуйте апарат на добу, використайте його на своєму заході й поверніть нам. Підходить для:</p>
+<ul class="chips"><li>шкільних ярмарків</li><li>свят у садочках</li><li>благодійних заходів</li><li>відкриття магазинів</li><li>наукових виставок</li><li>днів науки в школі</li><li>фестивалів і маркетів</li><li>корпоративів</li><li>випускних</li><li>днів народження вдома</li><li>спортивних змагань</li></ul>
+<div class="steps">
+<div><b>1</b><p>Бронюєте дату в Telegram або по телефону.</p></div>
+<div><b>2</b><p>Забираєте апарат у нас. Ми показуємо, як його запустити, користуватися ним і доглянути після свята.</p></div>
+<div><b>3</b><p>Проводите захід і повертаєте обладнання.</p></div>
+</div>
+<a class="btn yel" href="#contacts">Забронювати апарат</a>
+</div>
+</div></section>
+
+<section id="services" class="services"><div class="wrap">
+<h2>Послуги</h2>
+<p class="lead">Якщо не хочеться організовувати самим, візьмемо на себе програму та частування.</p>
+<div class="svc">
+<article><h3>🎭 Аніматори</h3><ul><li>Герої мультфільмів і казок</li><li>Квести, ігри та конкурси</li><li>Шоу мильних бульбашок і аквагрим</li><li>Програма під вік дітей</li></ul></article>
+<article><h3>🥂 Кейтеринг</h3><ul><li>Фуршети, канапе та солодкі столи</li><li>Дитяче меню без зайвого цукру</li><li>Подача, посуд і персонал</li><li>Меню на будь-який бюджет</li></ul></article>
+</div></div></section>
+
+<section id="about"><div class="wrap about">
+<div><h2>Про нас</h2>
+<p>«Свято всім» допомагає робити події, які запам’ятаються: від дитячого дня народження до корпоративу чи весілля. Ми самі перевіряємо кожен апарат перед виїздом і на зв’язку, поки триває свято.</p>
+<p>Працюємо швидко, чесно називаємо ціну наперед і не беремо прихованих доплат. Кожному клієнтові показуємо, як працює апарат, щоб ви почувалися впевнено навіть уперше.</p></div>
+<div class="stats">
+<div class="stat" style="--c:#E6007E"><b>7 років</b>на ринку</div>
+<div class="stat" style="--c:#00A99D"><b>1500+</b>свят</div>
+<div class="stat" style="--c:#FF6B2C"><b>24/7</b>на зв’язку</div>
+<div class="stat" style="--c:#6C3BE0"><b>100%</b>техніки перевіряємо</div>
+</div></div></section>
+
+<section id="faq" class="faq"><div class="wrap">
+<h2>Часті питання</h2>
+<details><summary>Скільки коштує оренда попкорн-машини?</summary><p>1000 грн за добу. Солодка вата теж 1000 грн, шоколадний фонтан 700 грн за добу.</p></details>
+<details><summary>Чи потрібен досвід, щоб користуватися обладнанням?</summary><p>Ні. Коли ви забираєте апарат, ми показуємо, як його запустити, користуватися ним і доглянути після використання.</p></details>
+<details><summary>Чи можна орендувати обладнання для школи, садочка чи благодійного заходу?</summary><p>Так. Обладнання беруть для шкільних ярмарків, свят у садочках, благодійних заходів, відкриття магазинів і наукових виставок.</p></details>
+<details><summary>Як забронювати обладнання?</summary><p>Напишіть у Telegram @SvyatoVsim або зателефонуйте 073 027 07 32, вкажіть дату й що потрібно.</p></details>
+<details><summary>Чи є аніматори й кейтеринг?</summary><p>Так. Якщо не хочете організовувати свято самі, ми візьмемо на себе програму з аніматорами та частування.</p></details>
+</div></section>
+
+<section id="contacts" class="contact"><div class="wrap">
+<h2>Контакти</h2>
+<p class="lead">Напишіть у месенджер або залиште заявку. Передзвонимо чи відповімо протягом 15 хвилин.</p>
+<div class="cgrid">
+<div>
+<div class="msgs"><a class="btn tg" href="https://t.me/SvyatoVsim" target="_blank" rel="noopener">Написати в Telegram</a><a class="btn vb" href="viber://chat?number=%2B380730270732">Написати у Viber</a></div>
+<ul class="info"><li>📞 <a href="tel:+380730270732">073 027 07 32</a></li><li>✉️ <a href="mailto:hello@svyato-vsim.ua">hello@svyato-vsim.ua</a></li><li>🕘 Щодня з 9:00 до 21:00</li></ul>
+</div>
+<form id="f">
+<label>Ім’я<input name="n" required autocomplete="name"></label>
+<label>Телефон<input name="p" type="tel" required autocomplete="tel" placeholder="+380…"></label>
+<label>Що потрібно
+<select name="s"><option>Попкорн-машина</option><option>Солодка вата</option><option>Шоколадний фонтан</option><option>Кінопоказ</option><option>Фотозона</option><option>Аніматори</option><option>Кейтеринг</option><option>Кілька позицій</option></select></label>
+<label>Дата і побажання<textarea name="m" rows="3" placeholder="Дата, кількість гостей, адреса"></textarea></label>
+<button class="btn pink" type="submit">Надіслати заявку</button>
+<p id="ok" role="status"></p>
+</form>
+</div></div></section>
+</main>
+<footer>© 2026 «Свято всім». Оренда обладнання та організація івентів.</footer>
+
+<script>
+(function(){
+var c=['#E6007E','#FFC400','#00D4C4','#FF6B2C','#fff'],g=document.getElementById('flags'),h='',n=24;
+for(var i=0;i<n;i++){var x=25+i*(1150/(n-1)),t=i/(n-1),y=6+176*t*(1-t)*0.99*1.0;y=6+ (44*4*t*(1-t))*0.5+0;
+h+='<path d="M'+(x-18)+' '+y+' L'+(x+18)+' '+y+' L'+x+' '+(y+36)+'Z" fill="'+c[i%5]+'"/>';}
+g.innerHTML=h;
+document.getElementById('f').addEventListener('submit',function(e){
+e.preventDefault();var d=new FormData(e.target);
+var t='Заявка з сайту «Свято всім»\nІм’я: '+d.get('n')+'\nТелефон: '+d.get('p')+'\nПотрібно: '+d.get('s')+'\nПобажання: '+(d.get('m')||'—');
+try{navigator.clipboard.writeText(t)}catch(_){}
+document.getElementById('ok').textContent='Готово! Відкриваємо Telegram: заявку вже скопійовано, вставте її в чат і надішліть.';
+window.open('https://t.me/SvyatoVsim?text='+encodeURIComponent(t),'_blank','noopener');
+});
+})();
+</script>
+</body>
+</html>
